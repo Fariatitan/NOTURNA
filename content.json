@@ -1,0 +1,70 @@
+{
+  "series": "NOTURNA",
+  "curator": "Henrique Taveira (DALLIDO.1988)",
+  "theme": "Quatro estudos sobre intimidade, confinamento e luz residual",
+  "year": "2026",
+  "medium": "Simulação Analógica Monocromática / Tri-X Forçado",
+  "format": "Políptico modular em quatro atos (60 × 90 cm cada)",
+  "artworks": [
+    {
+      "id": "noturna-01",
+      "act": "Ato I",
+      "title": "NOTURNA I — O Fumo",
+      "subtitle": "A Cozinha",
+      "file": "assets/noturna-01-cozinha.jpg",
+      "year": "2026",
+      "dimensions": "60 × 90 cm (Formato Museu)",
+      "medium": "Simulação Analógica Monocromática / Tri-X Forçado",
+      "support": "Papel de Algodão Hahnemühle Photo Rag 308g",
+      "edition": "Prova de Artista (P.A.) + 3 edições numeradas",
+      "focus": "O homem em primeiro plano com o rosto parcialmente encoberto pela voluta de fumaça de um cigarro. Em segundo plano, a pia de inox, os azulejos institucionais e a louça lavada.",
+      "tension": "O gesto interrompido. A identidade é ocultada para que o gesto do fumo e a atmosfera fria da pia de inox se tornem os protagonistas da cena.",
+      "light_analysis": "Flash direto e rebatido da cozinha, estourando nos azulejos e dissolvendo os traços faciais na fumaça densa."
+    },
+    {
+      "id": "noturna-02",
+      "act": "Ato II",
+      "title": "NOTURNA II — A Suspensão",
+      "subtitle": "O Sofá",
+      "file": "assets/noturna-02-sofa.jpg",
+      "year": "2026",
+      "dimensions": "60 × 90 cm (Formato Museu)",
+      "medium": "Simulação Analógica Monocromática / Tri-X Forçado",
+      "support": "Papel de Algodão Hahnemühle Photo Rag 308g",
+      "edition": "Prova de Artista (P.A.) + 3 edições numeradas",
+      "focus": "Mulher recostada em sofá de estofamento pesado, taça de vinho na mão direita, fones de ouvido com fio e olhar em declive. Ao fundo, a textura de tijolos aparentes.",
+      "tension": "O isolamento sensorial no ambiente partilhado. A luz rasante desenha a dobra do tecido e a posição desarmada dos membros, estabelecendo uma cadência de silêncio e respiro lírico.",
+      "light_analysis": "Luz ambiente rebaixada e difusa do estar, ancorando o recolhimento do corpo no sofá e criando sombras aveludadas de médio tom."
+    },
+    {
+      "id": "noturna-03",
+      "act": "Ato III",
+      "title": "NOTURNA III — A Fratura",
+      "subtitle": "O Banheiro",
+      "file": "assets/noturna-03-banheiro.jpg",
+      "year": "2026",
+      "dimensions": "60 × 90 cm (Formato Museu)",
+      "medium": "Simulação Analógica Monocromática / Tri-X Forçado",
+      "support": "Papel de Algodão Hahnemühle Photo Rag 308g",
+      "edition": "Prova de Artista (P.A.) + 3 edições numeradas",
+      "focus": "A claustrofobia do banheiro estreito. Um homem de costas faz a barba diante do espelho fosco manchado; no plano rebaixado, outro homem sem camisa repousa cabisbaixo.",
+      "tension": "O ponto de máxima gravidade e fricção psicológica da série. Convivência crua, exaustão e fragilidade corporal sob luz dura e impiedosa.",
+      "light_analysis": "Lâmpada fluorescente tubular no teto, cuja incidência vertical e implacável expõe a vulnerabilidade da carne e as ranhuras do espelho."
+    },
+    {
+      "id": "noturna-04",
+      "act": "Ato IV",
+      "title": "NOTURNA IV — A Condução",
+      "subtitle": "O Corredor",
+      "file": "assets/noturna-04-corredor.jpg",
+      "year": "2026",
+      "dimensions": "60 × 90 cm (Formato Museu)",
+      "medium": "Simulação Analógica Monocromática / Tri-X Forçado (Master 150 Megapixels)",
+      "support": "Papel de Algodão Hahnemühle Photo Rag 308g / Canvas Mineral",
+      "edition": "Prova de Artista (P.A.) + 3 edições numeradas",
+      "focus": "Dois homens em trânsito por um corredor doméstico revestido de painéis de madeira escura e piso de granito. O homem em primeiro plano avança com o pescoço em tração muscular; atrás, o segundo homem com um copo hesita no escuro.",
+      "tension": "A coreografia de poder e hesitação. A anatomia do pescoço em tração impõe a urgência do passo, contrapondo a decisão do condutor à incerteza da sombra que o segue.",
+      "light_analysis": "Penumbra recortada do corredor doméstico, onde o contraste seco delineia a matéria sólida da madeira e a tensão anatômica do movimento."
+    }
+  ]
+}
